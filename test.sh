@@ -51,5 +51,5 @@ echo " Successfully build image"
 
 echo "Run apache server image"
 # docker run -p 1114:80 -i -t apacheimage /bin/bash
-#tdocker run -p 1114:80 -d apacheimage
+  docker run -p 1114:80 -d apacheimage
 
